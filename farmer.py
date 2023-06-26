@@ -39,7 +39,7 @@ if foundFile:
             with open(f"{workingDir}\{selectedExtension}_farmer{randNumber}.{selectedExtension}", "w") as file:
                 pass
             print(f"Made {selectedExtension}_farmer{randNumber}, open it within 10 seconds or it will break")
-            print("Each file has ~20,000 lines of code. This means it will keep running (minimum ~30 hours) until you do a KeyboardInterrupt (press Control-C on console)")
+            print("Each file has 20,000 lines of code. This means it will keep running until you do a KeyboardInterrupt (press Control-C on console)")
             sleep(10)
             try:
                 with open(f"{codePath}\{selectedExtension}.{selectedExtension}", "r", encoding="utf-8") as file:

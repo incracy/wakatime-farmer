@@ -46,3 +46,7 @@ py farmer.py
 | Go | Java | JavaScript | PHP |
 |--|--|--|--|
 | 80.5 hours | 112.2 hours | 80.5 hours | 58.3 hours |
+
+| Cobol |
+|--|
+| 77.7 hours |

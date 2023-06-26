@@ -36,7 +36,7 @@ py farmer.py
 - You will then have 10 seconds to switch to that file on your IDE.
 - Refer to the table below under "Languages" to see how long it takes for a file to be done, or you can just Ctrl+C on the console to KeyboardInterrupt (quit)
 
-##### Notes: Adding new languages and updating README.md daily, and also I don't recommend you run the actual files inside of /code/ as it will just spam your console
+##### Notes: Adding new languages and updating README.md daily, also VSC will say the code is wrong which it is, this is done so it still idles the language but the code isn't actually useful
 
 ## Languages
 | Python | C# | C | C++ |

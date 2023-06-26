@@ -1,3 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.java linguist-detectable=false
+*.cpp linguist-detectable=false
+*.rs linguist-detectable=false
+*.js linguist-detectable=false
+*.ts linguist-detectable=false
+*.php linguist-detectable=false
+*.rb linguist-detectable=false

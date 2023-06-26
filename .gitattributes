@@ -7,3 +7,7 @@
 *.ts linguist-detectable=false
 *.php linguist-detectable=false
 *.rb linguist-detectable=false
+*.cs linguist-detectable=false
+*.go linguist-detectable=false
+*.c linguist-detectable=false
+*.swift linguist-detectable=false

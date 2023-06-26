@@ -30,9 +30,10 @@ py farmer.py
 
 ```
 
-To start it, you have to type in the language you want to farm (extensions only, like "py", "cpp" etc)
-It will then make a file for that, under the name of the extension name, a random number, and then ending in the extension.
-You will then have 10 seconds to switch to that file on your IDE. Refer to the table below under "Languages" to see how long it takes for a file to be done, or you can just Ctrl+C on the console to KeyboardInterrupt (quit)
+- To start it, you have to type in the language you want to farm (extensions only, like "py", "cpp" etc)
+- It will then make a file for that, under the name of the extension name, a random number, and then ending in the extension.
+- You will then have 10 seconds to switch to that file on your IDE.
+- Refer to the table below under "Languages" to see how long it takes for a file to be done, or you can just Ctrl+C on the console to KeyboardInterrupt (quit)
 
 ## Languages
 | Python | C# | C | C++ |

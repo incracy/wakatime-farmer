@@ -2,6 +2,8 @@ import pyautogui, os
 from time import sleep
 from random import randrange
 
+pyautogui.FAILSALE = False
+
 workingDir = os.getcwd()
 codeDir = "code"
 codePath = os.path.join(workingDir, codeDir)

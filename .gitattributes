@@ -11,3 +11,4 @@
 *.go linguist-detectable=false
 *.c linguist-detectable=false
 *.swift linguist-detectable=false
+*.cbl linguist-detectable=false

@@ -1,6 +1,6 @@
 # Wakatime Farmer
 
-Easily farm Wakatime hours to make yourself look more productive.\
+Easily farm Wakatime hours to make yourself look more productive.
 
 Works on most code-editors as long as it has Wakatime installed.
 

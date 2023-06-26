@@ -50,7 +50,7 @@ if foundFile:
                             elif char == "\t":
                                 pyautogui.press("\t")
                             else:
-                                sleep(0.05)
+                                sleep(0.50)
                                 pyautogui.typewrite(char)
             except Exception as e:
                 print(e)

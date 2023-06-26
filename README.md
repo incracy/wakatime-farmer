@@ -35,6 +35,8 @@ py farmer.py
 - You will then have 10 seconds to switch to that file on your IDE.
 - Refer to the table below under "Languages" to see how long it takes for a file to be done, or you can just Ctrl+C on the console to KeyboardInterrupt (quit)
 
+##### I don't recommend you run the files inside of /code/ though as it will spam your console
+
 ## Languages
 | Python | C# | C | C++ |
 |--|--|--|--|
